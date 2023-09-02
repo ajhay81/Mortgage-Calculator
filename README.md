@@ -1,3 +1,7 @@
+
+![image](https://github.com/ajhay81/mortgage-calculator/assets/82284895/65401c2f-12c2-4111-bb57-22bc5ca89609)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
